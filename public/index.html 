@@ -8,4 +8,10 @@
   <body>
     <div id="root"></div>
   </body>
-</html>
+</html>cd /workspaces/agencia-prisma-crm
+git add -A
+git commit -m "fix: resolve 3720+ compilation errors - clean App.jsx"
+git push origin maincd /workspaces/agencia-prisma-crm
+git add -A
+git commit -m "fix: resolve 3720+ compilation errors - clean App.jsx"
+git push origin main
